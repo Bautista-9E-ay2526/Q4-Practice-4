@@ -1,3 +1,38 @@
-.container{
-    border: black;
+
+body {
+    background-color: #CCC9DC;
+    
 }
+
+.container {
+    height: 50vh;
+    width: 900px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #0C1821;
+    border-radius: 15px;
+    padding: 20px
+    
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+button {
+    background: #FF6B6B;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1rem;
+    color: white;
+    border-radius: 8px;
+}
+
