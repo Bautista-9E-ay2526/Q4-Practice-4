@@ -3,9 +3,9 @@ function OpenGate(){
     const maxCars = 30  
 
     while (carCounter < maxCars) {
-        window.alert(carCounter);
+        window.alert("Car Number"+ "carCounter" + "is entering");
         carCounter += 1;
     }
 
-    window.alert(Garage is full);
+    window.alert("Garage is full");
 }
